@@ -1,0 +1,7 @@
+LaunchTargetManager/configs/Tomcat\ v8.0\ Server\ at\ localhost=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:biblioteca,org.eclipse.launchbar.core.descriptorType.default\:ProyectoA - jar,org.eclipse.launchbar.core.descriptorType.default\:ProyectoA - test,org.eclipse.launchbar.core.descriptorType.default\:ProyectoA - init,org.eclipse.launchbar.core.descriptorType.default\:ProyectoA - bootRepackage,org.eclipse.launchbar.core.descriptorType.default\:ProyectoA,org.eclipse.launchbar.core.descriptorType.default\:ProyectoA - jacocoTestReport,org.eclipse.launchbar.core.descriptorType.default\:ProyectoA - build,org.eclipse.launchbar.core.descriptorType.default\:ProyectoB - init,org.eclipse.launchbar.core.descriptorType.default\:ProyectoB - jacocoTestReport,org.eclipse.launchbar.core.descriptorType.default\:ProyectoB - build,org.eclipse.launchbar.core.descriptorType.default\:ProyectoB (1),org.eclipse.launchbar.core.descriptorType.default\:ProyectoC,org.eclipse.launchbar.core.descriptorType.default\:Tomcat v8.0 Server at localhost
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:biblioteca/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:biblioteca/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

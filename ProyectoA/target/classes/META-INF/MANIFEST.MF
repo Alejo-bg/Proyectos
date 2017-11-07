@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ProyectoA
+Implementation-Version: 0.1.0
+Built-By: RUBEN
+Implementation-Vendor-Id: ProyectoA
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/ProyectoA/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

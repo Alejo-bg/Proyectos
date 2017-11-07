@@ -1,0 +1,5 @@
+package good.be.alejo.controller;
+
+public class CountryController {
+
+}
